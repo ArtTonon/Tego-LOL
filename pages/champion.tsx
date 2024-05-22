@@ -18,8 +18,8 @@ const championData = {
   ],
 };
 
-const HomePage = () => {
+const Champion = () => {
   return <ChampionPage {...championData} />;
 };
 
-export default HomePage;
+export default Champion;
