@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 const Tego = () => {
   return (
@@ -25,4 +25,4 @@ const Tego = () => {
   );
 };
 
-export default Tego;
+export default Tego;*/
