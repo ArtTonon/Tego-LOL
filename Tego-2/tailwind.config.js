@@ -7,14 +7,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        'gray-000': '#0a0a0d',
         'gray-900': '#1A202C',
         'gray-800': '#2D3748',
         'gray-700': '#4A5568',
         'gray-600': '#718096',
         'gray-400': '#CBD5E0',
         'gray-300': '#E2E8F0',
-        'gray-200': '#EDF2F7',
-        'gray-100': '#F7FAFC',
+        'gray-200': '#141414',
+        'gray-100': '#242424',
+        'gold': '#947442',
+
       },
       boxShadow: {
         'xl': '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
@@ -23,6 +26,7 @@ module.exports = {
         'sans': ['Inter', 'ui-sans-serif', 'system-ui'],
       },
       fontSize: {
+        'min': '10px',
         'base': '1rem',
         'lg': '1.125rem',
         'xl': '1.25rem',
