@@ -23,7 +23,6 @@ a:hover {
   border-radius: 0.25rem;
 }
 
-#tegoImage {
-  background-image: url('../public/images/tego-full.png');
-  width: full;
+#overlay {
+  font-family: 'Boardwalk Avenue Serif Regular, sans-serif';
 }
