@@ -26,3 +26,13 @@ a:hover {
 #overlay {
   font-family: 'Boardwalk Avenue Serif Regular, sans-serif';
 }
+
+.video-container {
+  max-width: 600px; /* Aumente este valor conforme necessário */
+  margin-left: 100px;
+}
+
+.video-container video {
+  width: 100%;
+  height: auto;
+}
